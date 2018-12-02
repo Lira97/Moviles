@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">materialDesign</string>
+    <string name="Mandar">Mandar</string>
+    <string name="Guardar">Guardar</string>
+    <string name="abrir">abrir</string>
+    <string name="imageButton">imageButton</string>
+    <string name="Auto">Auto</string>
+    <string name="start">start</string>
+    <string name="radiobutton1">radiobutton1</string>
+    <string name="radiobutton2">radiobutton2</string>
+    <string name="toggle">toggle</string>
+</resources>

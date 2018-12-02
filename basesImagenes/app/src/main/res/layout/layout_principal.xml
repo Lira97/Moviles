@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" tools:context=".Principal">
+    <Button android:id="@+id/Seleccionar" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Seleccione la imagen a subir"/>
+    <ImageView android:id="@+id/imageView" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+    <EditText android:id="@+id/editText" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Ingrese el nombre de la imagen"/>
+    <Button android:id="@+id/Subir" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Subir imagen"/>
+</LinearLayout>

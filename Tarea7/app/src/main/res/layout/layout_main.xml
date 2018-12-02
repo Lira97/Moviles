@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LayoutMainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/nombre"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/nombre"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/apellido"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/apellido"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/profesi_n"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/profesi_n"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/g_nero"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/g_nero"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/tel_fono"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/tel_fono"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_l_es_la_raz_n_para_comprar_un_auto"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_l_es_el_presupuesto"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_nto_se_puede_pagar_al_mes"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView44"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/se_va_a_comprar_o_hacer_un_lease"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_tipo_de_motor_debe_tener_el_auto"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/importa_el_origen_del_auto"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView41"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/en_qu_marca_confias_m_s"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_pa_s_fabrica_los_mejores_autos"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView62"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_nivel_de_equipamiento_est_s_buscando"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView61"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_pa_s_fabrica_los_mejores_autos"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView60"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_tama_o_prefieres"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView59"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_te_importa_m_s_del_auto"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView58"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_adjetivo_debe_describir_a_tu_coche"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView57"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/para_ti_conducir_es"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView56"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_ndo_conduces"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView55"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_l_es_tu_color_favorito"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView54"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_deporte_practicas"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView53"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_tipo_de_m_sica_escuchas"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView52"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cu_l_es_tu_pel_cula_favorita"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView51"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_haces_cuando_te_aproximas_a_un_sem_foro_en_mbar"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView50"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qui_n_suele_ir_contigo_en_el_coche"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/cada_cuanto_conduces"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView48"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:text="@string/c_mo_te_sientes_cuando_eres_un_pasajero_del_coche"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="match_parent"
+                android:layout_height="31dp"
+                android:text="@string/qu_edad_tienes"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/textView63"
+                android:layout_width="match_parent"
+                android:layout_height="83dp"
+                android:text="@string/imagina_que_te_tocara_la_loter_a_y_pudieras_comprar_el_coche_que_quisieras_cu_l_elegir_as_mostrar_marcas_y_modelos"
+                android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/editText31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/respuesta"
+                android:inputType="textPersonName" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Guardar"
+                android:onClick="write"/>
+
+            <Button
+
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Retrieve"
+                android:onClick="read"/>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Resultado"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

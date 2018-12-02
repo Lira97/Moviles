@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video_splash</string>
+    <string name="Image">Image_Splash</string>
+    <string name="screen">ss_screen</string>
+    <string name="URL">introduce new url</string>
+    <string name="URL1">Introduce tu nuevo URL</string>
+    <string name="Boton">Mandar</string>
+    <string name="URL2">Introduce URL</string>
+</resources>

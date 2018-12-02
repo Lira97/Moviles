@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alma_AutoCmple</string>
+    <string name="text1">text2</string>
+    <string name="guardar" />
+    <string name="Guardar">Guardar</string>
+    <string name="Recuaperar">Recuaperar</string>
+    <string name="Nombre">Nombre</string>
+    <string name="informacion">informacion</string>
+</resources>

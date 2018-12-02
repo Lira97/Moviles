@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tarea4</string>
+    <string name="image">image</string>
+    <string name="TOAST">TOAST</string>
+    <string name="URL">URL</string>
+    <string name="Calcu">Calcu</string>
+    <string name="Promedio">Promedio</string>
+    <string name="toast">TOAST</string>
+    <string name="url">URL</string>
+    <string name="calcu">Calcu</string>
+    <string name="promedio">Promedio</string>
+
+    <string name="resultado">Resultado</string>
+
+    <string name="_0">0</string>
+    <string name="suma">+</string>
+    <string name="multi">x</string>
+    <string name="rseta">-</string>
+    <string name="div">/</string>
+
+    <string name="name">Name</string>
+    <string name="oast">Toast</string>
+    <string name="web">Web</string>
+    <string name="datos">Datos</string>
+    <string name="Url">url</string>
+</resources>

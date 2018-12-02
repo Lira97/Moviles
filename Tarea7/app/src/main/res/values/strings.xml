@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tarea7</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+
+    <string name="profesi_n">Profesión</string>
+    <string name="g_nero">Género</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="cu_l_es_la_raz_n_para_comprar_un_auto">¿Cuál es la razón para comprar un auto?</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="cu_l_es_el_presupuesto">¿Cuál es el presupuesto?</string>
+
+    <string name="cu_nto_se_puede_pagar_al_mes">¿Cuánto se puede pagar al mes?</string>
+
+    <string name="se_va_a_comprar_o_hacer_un_lease">¿Se va a comprar o hacer un lease?</string>
+
+    <string name="qu_tipo_de_motor_debe_tener_el_auto">¿Qué tipo de motor debe tener el auto?</string>
+
+    <string name="importa_el_origen_del_auto">¿Importa el origen del auto?</string>
+
+    <string name="en_qu_marca_confias_m_s">¿En qué marca confias más?</string>
+
+    <string name="qu_pa_s_fabrica_los_mejores_autos">¿Qué país fabrica los mejores autos?</string>
+
+    <string name="qu_nivel_de_equipamiento_est_s_buscando">¿Qué nivel de equipamiento estás buscando?</string>
+    <string name="qu_tama_o_prefieres">¿Qué tamaño prefieres?</string>
+    <string name="qu_te_importa_m_s_del_auto">¿Qué te importa más del auto?</string>
+
+    <string name="qu_adjetivo_debe_describir_a_tu_coche">¿Qué adjetivo debe describir a tu coche?</string>
+
+    <string name="para_ti_conducir_es">Para ti, conducir es...</string>
+
+    <string name="cu_ndo_conduces">¿Cuándo conduces?</string>
+    <string name="cu_l_es_tu_color_favorito">¿Cuál es tu color favorito?</string>
+    <string name="qu_deporte_practicas">¿Qué deporte practicas?</string>
+    <string name="qu_tipo_de_m_sica_escuchas">¿Qué tipo de música escuchas?</string>
+
+    <string name="cu_l_es_tu_pel_cula_favorita">¿Cuál es tu película favorita?</string>
+
+    <string name="qu_haces_cuando_te_aproximas_a_un_sem_foro_en_mbar">¿Qué haces cuando te aproximas a un semáforo en ámbar?</string>
+    <string name="qui_n_suele_ir_contigo_en_el_coche">¿Quién suele ir contigo en el coche?</string>
+    <string name="cada_cuanto_conduces">¿Cada cuanto conduces?</string>
+
+
+    <string name="c_mo_te_sientes_cuando_eres_un_pasajero_del_coche">¿Cómo te sientes cuando eres un pasajero del coche?</string>
+
+    <string name="qu_edad_tienes">¿Qué edad tienes?</string>
+
+    <string name="imagina_que_te_tocara_la_loter_a_y_pudieras_comprar_el_coche_que_quisieras_cu_l_elegir_as_mostrar_marcas_y_modelos">Imagina que te tocara la Lotería y pudieras comprar el coche que quisieras, ¿cuál elegirías? mostrar marcas y modelos</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlmacenamientoFiles</string>
+    <string name="Cargar">Cargar</string>
+    <string name="Guardar">Guardar</string>
+    <string name="name">Name</string>
+    <string name="textview">Ingrese las caracteristicas del vehiculo que esta buscando</string>
+    <string name="h">H</string>
+    <string name="m">M</string>
+</resources>
